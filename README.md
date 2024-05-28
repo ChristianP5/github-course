@@ -1,6 +1,8 @@
 # github-course (dev-branch)
 
-## I'v learned how to add a Level 2 Heading
+## I've learned how to add a Level 2 Heading
+
+### Now there's a Level 3 Heading
 
 also line breaks  
 (maybe)
@@ -16,9 +18,11 @@ This is an Unordered list:
 __I am also Bolded Text__
 (i am not a line break)  
 
+
 I am a new line
 
 I modified this file too
 
   This is added on the Development Branch  
   This too!
+
