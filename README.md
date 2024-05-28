@@ -14,4 +14,6 @@ This is an Unordered list:
 
 **I am Bolded text**  
 __I am also Bolded Text__
-(i am not a line break)
+(i am not a line break)  
+
+I am a new line
