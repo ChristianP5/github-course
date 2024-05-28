@@ -1,6 +1,6 @@
 # github-course
 
-## I'v learned how to add a Level 2 Heading
+## I've learned how to add a Level 2 Heading
 
 also line breaks  
 (maybe)
