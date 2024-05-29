@@ -18,11 +18,6 @@ This is an Unordered list:
 __I am also Bolded Text__
 (i am not a line break)  
 
+I am a new line  
 
-I am a new line
-
-I modified this file too
-
-  This is added on the Development Branch  
-  This too!
-
+i modified this file
