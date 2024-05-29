@@ -1,4 +1,4 @@
-# github-course (dev-branch)
+# github-course
 
 ## I've learned how to add a Level 2 Heading
 
