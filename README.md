@@ -1,4 +1,4 @@
-# github-course (dev-branch)
+# github-course
 
 ## I've learned how to add a Level 2 Heading
 
@@ -25,4 +25,3 @@ I modified this file too
 
   This is added on the Development Branch  
   This too!
-
